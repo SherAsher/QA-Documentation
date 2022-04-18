@@ -1,16 +1,16 @@
 
 
-### Acceptance Testing:
+## Acceptance Testing:
 
 
-## What is acceptance testing?
+### What is acceptance testing?
 
 User Acceptance Testing (UAT) is a type of software testing that involves the end-users or clients in the process of validation and testing of a software product or application. It is the final
 stage in the testing process after Unit testing, integration testing and system testing.
  
 
 
-## Criteria for performing acceptance testing:
+### Criteria for performing acceptance testing:
 
 - Analyze the business requirements
 - Unit tests, integration and system test should be performed before UAT
@@ -19,7 +19,7 @@ stage in the testing process after Unit testing, integration testing and system 
 - Business objectives should be clear.
 
 
-## How to perform acceptance testing:
+### How to perform acceptance testing:
 
 There are basically two stages in peforming the UAT, 
 
