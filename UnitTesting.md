@@ -7,3 +7,4 @@ have beeen developed, the functionality against the requirement is checked and e
 
 - Unit tests are performed seperately on every functions present in the application like a single line of code, functions, methods, objects etc.
 
+-  Unit testing has further sub-types which are, **White-box Testing**, **Gorilla Testing**.
